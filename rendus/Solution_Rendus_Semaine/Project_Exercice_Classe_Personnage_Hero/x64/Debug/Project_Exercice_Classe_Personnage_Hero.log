@@ -1,0 +1,14 @@
+﻿  Personnage.cpp
+C:\Users\arzou\Documents\Isitech\B2 RPI\C++\rendus\Solution_Rendus_Semaine\Project_Exercice_Classe_Personnage_Hero\Personnage.h(27,8): error C2143: erreur de syntaxe : absence de ')' avant ';'
+C:\Users\arzou\Documents\Isitech\B2 RPI\C++\rendus\Solution_Rendus_Semaine\Project_Exercice_Classe_Personnage_Hero\Personnage.h(27,8): error C2059: erreur de syntaxe : ')'
+C:\Users\arzou\Documents\Isitech\B2 RPI\C++\rendus\Solution_Rendus_Semaine\Project_Exercice_Classe_Personnage_Hero\Personnage.cpp(17,39): error C2511: 'Personnages::Heros::Heros(std::string,int)' : impossible de trouver la fonction membre surchargée dans 'Personnages::Heros'
+C:\Users\arzou\Documents\Isitech\B2 RPI\C++\rendus\Solution_Rendus_Semaine\Project_Exercice_Classe_Personnage_Hero\Personnage.h(25): message : voir la déclaration de 'Personnages::Heros'
+C:\Users\arzou\Documents\Isitech\B2 RPI\C++\rendus\Solution_Rendus_Semaine\Project_Exercice_Classe_Personnage_Hero\Personnage.cpp(17,57): error C2550: 'Personnages::Heros::{ctor}' : les listes d'initialiseurs de constructeur ne sont autorisées que dans la définition d'un constructeur
+C:\Users\arzou\Documents\Isitech\B2 RPI\C++\rendus\Solution_Rendus_Semaine\Project_Exercice_Classe_Personnage_Hero\Personnage.cpp(18,3): error C2671: 'Personnages::Heros::{ctor}' : les fonctions membres static n'ont pas de pointeurs 'this'
+C:\Users\arzou\Documents\Isitech\B2 RPI\C++\rendus\Solution_Rendus_Semaine\Project_Exercice_Classe_Personnage_Hero\Personnage.cpp(25,19): error C2143: erreur de syntaxe : absence de ';' avant 'Personnages::Personnage::GetNiveau'
+C:\Users\arzou\Documents\Isitech\B2 RPI\C++\rendus\Solution_Rendus_Semaine\Project_Exercice_Classe_Personnage_Hero\Personnage.cpp(25,28): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\arzou\Documents\Isitech\B2 RPI\C++\rendus\Solution_Rendus_Semaine\Project_Exercice_Classe_Personnage_Hero\Personnage.cpp(25,31): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  Project_Exercice_Classe_Personnage_Hero.cpp
+C:\Users\arzou\Documents\Isitech\B2 RPI\C++\rendus\Solution_Rendus_Semaine\Project_Exercice_Classe_Personnage_Hero\Personnage.h(27,8): error C2143: erreur de syntaxe : absence de ')' avant ';'
+C:\Users\arzou\Documents\Isitech\B2 RPI\C++\rendus\Solution_Rendus_Semaine\Project_Exercice_Classe_Personnage_Hero\Personnage.h(27,8): error C2059: erreur de syntaxe : ')'
+  Génération de code en cours...

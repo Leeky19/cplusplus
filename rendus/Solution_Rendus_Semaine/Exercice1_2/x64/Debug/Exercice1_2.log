@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: Le répertoire intermédiaire (x64\Debug\) contient des fichiers partagés provenant d'un autre projet (Exercice1_2.vcxproj). Cela peut entraîner un comportement de nettoyage et de regénération incorrect.
+  Exercice1_2.cpp
+C:\Users\arzou\Documents\Isitech\B2 RPI\C++\rendus\Solution_Rendus_Semaine\Exercice1_2\Exercice1_2.cpp(20,10): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+  Exercice1_2.vcxproj -> C:\Users\arzou\Documents\Isitech\B2 RPI\C++\rendus\Solution_Rendus_Semaine\x64\Debug\Project_Exercice1_2.exe

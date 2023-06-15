@@ -1,0 +1,11 @@
+﻿  Test_de_mardi_aprem.cpp
+C:\Users\arzou\Documents\Isitech\B2 RPI\C++\rendus\Solution_Rendus_Semaine\Test_de_mardi_aprem\Test_de_mardi_aprem.cpp(69,21): warning C4244: '=' : conversion de 'unsigned int' en 'float', perte possible de données
+C:\Users\arzou\Documents\Isitech\B2 RPI\C++\rendus\Solution_Rendus_Semaine\Test_de_mardi_aprem\Test_de_mardi_aprem.cpp(72,21): warning C4244: '=' : conversion de 'unsigned int' en 'float', perte possible de données
+C:\Users\arzou\Documents\Isitech\B2 RPI\C++\rendus\Solution_Rendus_Semaine\Test_de_mardi_aprem\Test_de_mardi_aprem.cpp(86,26): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+C:\Users\arzou\Documents\Isitech\B2 RPI\C++\rendus\Solution_Rendus_Semaine\Test_de_mardi_aprem\Test_de_mardi_aprem.cpp(87,26): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+C:\Users\arzou\Documents\Isitech\B2 RPI\C++\rendus\Solution_Rendus_Semaine\Test_de_mardi_aprem\Test_de_mardi_aprem.cpp(92,26): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+C:\Users\arzou\Documents\Isitech\B2 RPI\C++\rendus\Solution_Rendus_Semaine\Test_de_mardi_aprem\Test_de_mardi_aprem.cpp(93,26): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+C:\Users\arzou\Documents\Isitech\B2 RPI\C++\rendus\Solution_Rendus_Semaine\Test_de_mardi_aprem\Test_de_mardi_aprem.cpp(98,26): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+C:\Users\arzou\Documents\Isitech\B2 RPI\C++\rendus\Solution_Rendus_Semaine\Test_de_mardi_aprem\Test_de_mardi_aprem.cpp(99,26): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+C:\Users\arzou\Documents\Isitech\B2 RPI\C++\rendus\Solution_Rendus_Semaine\Test_de_mardi_aprem\Test_de_mardi_aprem.cpp(25): warning C4715: 'choixGenre' : les chemins de contrôle ne retournent pas tous une valeur
+  Test_de_mardi_aprem.vcxproj -> C:\Users\arzou\Documents\Isitech\B2 RPI\C++\rendus\Solution_Rendus_Semaine\x64\Debug\Test_de_mardi_aprem.exe
